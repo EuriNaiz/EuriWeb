@@ -47,3 +47,6 @@ layout: page
 {% if site.disqus.categories contains page.category %}
     {% include disqus.html %}
 {% endif %}
+{% if site.telegram_site_id %}
+    {% include telegram.html %}
+{% endif %}
