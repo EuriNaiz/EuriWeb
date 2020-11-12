@@ -1,7 +1,7 @@
 ---
 title: Acerca
 layout: page
-image: /assets/images/justmymind.jpg
+image: /assets/images/justmymind.png
 headerImage: false
 author: Euri
 description: ¿Quién soy yo? Ni yo lo sé.
