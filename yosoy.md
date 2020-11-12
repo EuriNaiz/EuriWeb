@@ -1,6 +1,10 @@
 ---
 title: Acerca
 layout: page
+image: /assets/images/justmymind.jpg
+headerImage: false
+author: Euri
+description: ¿Quién soy yo? Ni yo lo sé.
 ---
 
 ![](/assets/images/justmymind.png)
