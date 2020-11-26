@@ -18,7 +18,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://eurinaiz.github.io/EuriWeb
+url: https://www.eurinaiz.com
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -130,7 +130,7 @@ plugins:
   - jekyll-paginate-v2
 
 jekyll-mentions:
-  base_url: https://eurinaiz.github.io/EuriWeb
+  base_url: https://www.eurinaiz.com
 
 compress_html:
   ignore:
