@@ -42,7 +42,7 @@ telegram_site_id: Tlgpe4bU
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
 twitter: EuriNaiz
-instagram: EuriNaiz
+#instagram: EuriNaiz
 # pinterest: mypinterest
 # linkedin: mylinkedin
 youtube: channel/UCjQd65YzLiYzSzfEAsnBXhw
@@ -91,7 +91,7 @@ series: true
 # if you don't need "acerca" or "blog", comment them out below
 acerca: true
 blog: true
-galeria: true
+galeria: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
