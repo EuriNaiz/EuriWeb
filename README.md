@@ -62,5 +62,5 @@ Check the [FAQ](./FAQ.md) if you have any doubt or problem.
 
 ---
 ## License
-
-[MIT](https://kopplin.mit-license.org/) License © Sérgio Kopplin
+GNU [GPL] v3 Licence © Euri Montero based on Indigo Theme by Sérgio Kopplin
+([MIT](https://kopplin.mit-license.org/) License © Sérgio Kopplin )
