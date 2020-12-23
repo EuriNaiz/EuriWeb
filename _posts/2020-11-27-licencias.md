@@ -16,7 +16,7 @@ description: "Aquí se enumeran las licencias a las que se encuentra sujeto el s
 category: licencias
 author: Euri
 externalLink: false
-permalink: /licencias/
+permalink: "/licencias/"
 ---
 
 # Licencias del sitio.
