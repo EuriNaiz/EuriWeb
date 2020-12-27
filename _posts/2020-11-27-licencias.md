@@ -10,7 +10,7 @@ tag:
 - GPL3
 image: /assets/images/media/licencias.png
 headerImage: true
-series: true
+series: false
 hidden: true # don't count this post in blog pagination
 description: "Aquí se enumeran las licencias a las que se encuentra sujeto el sitio y los créditos de el software y tecnologías usadas en el mismo."
 category: licencias
